@@ -17,6 +17,6 @@ public class EjemploGit {
         int b = 20;
         boolean aMayorIgualB = a>=b;
         
-        System.out.println(aMayorIgualB);
+        System.out.println("¿ Es a mayor que b? " + aMayorIgualB);
     }
 }
